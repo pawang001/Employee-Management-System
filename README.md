@@ -10,10 +10,10 @@ This is a full-stack web application built using React.js for the frontend and S
 6. RESTful APIs powered by Spring Boot for backend services.
 
 # Tech Stack:
-***Frontend:*** React.js, CSS, Tailwind
-***Backend:*** Spring Boot, Spring Data JPA, Hibernate
-***Database:*** MySQL / H2 (configurable)
-***Tools:*** Maven, npm, Git
+* ***Frontend:*** React.js, CSS, Tailwind
+* ***Backend:*** Spring Boot, Spring Data JPA, Hibernate
+* ***Database:*** MySQL / H2 (configurable)
+* ***Tools:*** Maven, npm, Git
 
 # How to Run the Project:
 1. Clone the repository.
